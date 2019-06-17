@@ -1,3 +1,7 @@
-public static void main(String args[]){
-  system.out.pringIn("这是一个输出");
+package com.oracle.esTest;
+
+public class esGit{
+	public static void maim(String args[]){
+		System.out.println("这是一个输出");
+	}
 }
